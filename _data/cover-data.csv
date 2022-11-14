@@ -1,17 +1,31 @@
-objectid,filename,parentid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement,display_template,object_location,image_small,image_thumb
-cov-3-1.png,cov-3-1.png,,The Sight,Wayne McLoughlin,2007-04-24,,Jayfeather; Lionblaze; Hollyleaf,,,,,,Image;StillImage,image/png,eng,In Copyright - Educational Use Permitted.,,image,,,
-cov-3-2.png,cov-3-2.png,,The Dark River,Wayne McLoughlin,2007-12-26,,Heathertail,,,,,,Image;StillImage,image/png,eng,In Copyright - Educational Use Permitted.,,image,,,
-cov-3-3.png,cov-3-3.png,,Outcast,Wayne McLoughlin,2008-04-22,,Stormfur; Brook,,,,,,Image;StillImage,image/png,eng,In Copyright - Educational Use Permitted.,,image,,,
-cov-3-4.png,cov-3-4.png,,Eclipse,Wayne McLoughlin,2008-09-02,,Jayfeather,,,,,,Image;StillImage,image/png,eng,In Copyright - Educational Use Permitted.,,image,,,
-cov-3-5.png,cov-3-5.png,,Long Shadows,Wayne McLoughlin,2008-11-25,,Sol,,,,,,Image;StillImage,image/png,eng,In Copyright - Educational Use Permitted.,,image,,,
-cov-3-6.png,cov-3-6.png,,Sunrise,Wayne McLoughlin,2009-04-21,,Hollyleaf,,,,,,Image;StillImage,image/png,eng,In Copyright - Educational Use Permitted.,,image,,,
-cov-4-1.png,cov-4-1.png,,The Fourth Apprentice,Wayne McLoughlin,2009-11-24,,Dovewing,,,,,,Image;StillImage,image/png,eng,In Copyright - Educational Use Permitted.,,image,,,
-cov-4-2.png,cov-4-2.png,,Fading Echos,Wayne McLoughlin,2010-03-23,,Ivypool,,,,,,Image;StillImage,image/png,eng,In Copyright - Educational Use Permitted.,,image,,,
-cov-4-3.png,cov-4-3.png,,Night whispers,Wayne McLoughlin,2010-11-23,,Flametail,,,,,,Image;StillImage,image/png,eng,In Copyright - Educational Use Permitted.,,image,,,
-cov-4-4.png,cov-4-4.png,,Sign of the Moon,Wayne McLoughlin,2011-04-05,,Stoneteller,,,,,,Image;StillImage,image/png,eng,In Copyright - Educational Use Permitted.,,image,,,
-cov-4-5.png,cov-4-5.png,,The Forgotten Warrior,Wayne McLoughlin,2011-11-22,,Leafpool,,,,,,Image;StillImage,image/png,eng,In Copyright - Educational Use Permitted.,,image,,,
-cov-4-6.png,cov-4-6.png,,The Last Hope,Wayne McLoughlin,2012-04-03,,Firestar,,,,,,Image;StillImage,image/png,eng,In Copyright - Educational Use Permitted.,,image,,,
-cov-7-3.png,cov-7-3.png,,Veil of Shadows,Owen Richardson,2020-04-07,,Bristlefrost,,,,,,Image;StillImage,image/png,eng,In Copyright - Educational Use Permitted.,,image,,,
-cov-7-5.png,cov-7-5.png,,The Place of No Stars,Owen Richardson,2021-04-06,,Ashfur,,,,,,Image;StillImage,image/png,eng,In Copyright - Educational Use Permitted.,,image,,,
-cov-7-6.png,cov-7-6.png,,A Light in the Mist,Owen Richardson,2021-11-09,,Bramblestar,,,,,,Image;StillImage,image/png,eng,In Copyright - Educational Use Permitted.,,image,,,
-cov-8-1.png,cov-8-1.png,,River,Owen Richardson,2022-04-05,,Mistystar,,,,,,Image;StillImage,image/png,eng,In Copyright - Educational Use Permitted.,,image,,,
+objectid,filename,parentid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement,display_template,object_location,image_small,image_thumb,Series
+cov-2-1.png,cov-2-1.png,,Midnight,Wayne McLoughlin,2005-05-10,,Brambleclaw,,,,,,Image;StillImage,image/png,eng,In Copyright - Educational Use Permitted.,,image,,,,The New Prophecy
+cov-2-2.png,cov-2-2.png,,Moonlight,Wayne McLoughlin,2005-08-02,,Feathertail,,,,,,Image;StillImage,image/png,eng,In Copyright - Educational Use Permitted.,,image,,,,The New Prophecy
+cov-2-3.png,cov-2-3.png,,Dawn,Wayne McLoughlin,2005-12-27,,Leafpool,,,,,,Image;StillImage,image/png,eng,In Copyright - Educational Use Permitted.,,image,,,,The New Prophecy
+cov-2-4.png,cov-2-4.png,,Starlight,Wayne McLoughlin,2006-04-04,,Leafpool,,,,,,Image;StillImage,image/png,eng,In Copyright - Educational Use Permitted.,,image,,,,The New Prophecy
+cov-2-5.png,cov-2-5.png,,Twilight,Wayne McLoughlin,2006-08-22,,Crowfeather,,,,,,Image;StillImage,image/png,eng,In Copyright - Educational Use Permitted.,,image,,,,The New Prophecy
+cov-2-6.png,cov-2-6.png,,Sunset,Wayne McLoughlin,2006-12-26,,Hawkfrost,,,,,,Image;StillImage,image/png,eng,In Copyright - Educational Use Permitted.,,image,,,,The New Prophecy
+cov-3-1.png,cov-3-1.png,,The Sight,Wayne McLoughlin,2007-04-24,,Jayfeather; Lionblaze; Hollyleaf,,,,,,Image;StillImage,image/png,eng,In Copyright - Educational Use Permitted.,,image,,,,The Power of Three
+cov-3-2.png,cov-3-2.png,,The Dark River,Wayne McLoughlin,2007-12-26,,Heathertail,,,,,,Image;StillImage,image/png,eng,In Copyright - Educational Use Permitted.,,image,,,,The Power of Three
+cov-3-3.png,cov-3-3.png,,Outcast,Wayne McLoughlin,2008-04-22,,Stormfur; Brook,,,,,,Image;StillImage,image/png,eng,In Copyright - Educational Use Permitted.,,image,,,,The Power of Three
+cov-3-4.png,cov-3-4.png,,Eclipse,Wayne McLoughlin,2008-09-02,,Jayfeather,,,,,,Image;StillImage,image/png,eng,In Copyright - Educational Use Permitted.,,image,,,,The Power of Three
+cov-3-5.png,cov-3-5.png,,Long Shadows,Wayne McLoughlin,2008-11-25,,Sol,,,,,,Image;StillImage,image/png,eng,In Copyright - Educational Use Permitted.,,image,,,,The Power of Three
+cov-3-6.png,cov-3-6.png,,Sunrise,Wayne McLoughlin,2009-04-21,,Hollyleaf,,,,,,Image;StillImage,image/png,eng,In Copyright - Educational Use Permitted.,,image,,,,The Power of Three
+cov-4-1.png,cov-4-1.png,,The Fourth Apprentice,Wayne McLoughlin,2009-11-24,,Dovewing,,,,,,Image;StillImage,image/png,eng,In Copyright - Educational Use Permitted.,,image,,,,Omen of the Stars
+cov-4-2.png,cov-4-2.png,,Fading Echos,Wayne McLoughlin,2010-03-23,,Ivypool,,,,,,Image;StillImage,image/png,eng,In Copyright - Educational Use Permitted.,,image,,,,Omen of the Stars
+cov-4-3.png,cov-4-3.png,,Night whispers,Wayne McLoughlin,2010-11-23,,Flametail,,,,,,Image;StillImage,image/png,eng,In Copyright - Educational Use Permitted.,,image,,,,Omen of the Stars
+cov-4-4.png,cov-4-4.png,,Sign of the Moon,Wayne McLoughlin,2011-04-05,,Stoneteller,,,,,,Image;StillImage,image/png,eng,In Copyright - Educational Use Permitted.,,image,,,,Omen of the Stars
+cov-4-5.png,cov-4-5.png,,The Forgotten Warrior,Wayne McLoughlin,2011-11-22,,Leafpool,,,,,,Image;StillImage,image/png,eng,In Copyright - Educational Use Permitted.,,image,,,,Omen of the Stars
+cov-4-6.png,cov-4-6.png,,The Last Hope,Wayne McLoughlin,2012-04-03,,Firestar,,,,,,Image;StillImage,image/png,eng,In Copyright - Educational Use Permitted.,,image,,,,Omen of the Stars
+cov-7-3.png,cov-7-3.png,,Veil of Shadows,Owen Richardson,2020-04-07,,Bristlefrost,,,,,,Image;StillImage,image/png,eng,In Copyright - Educational Use Permitted.,,image,,,,A Vision of Shadows
+cov-7-5.png,cov-7-5.png,,The Place of No Stars,Owen Richardson,2021-04-06,,Ashfur,,,,,,Image;StillImage,image/png,eng,In Copyright - Educational Use Permitted.,,image,,,,A Vision of Shadows
+cov-7-6.png,cov-7-6.png,,A Light in the Mist,Owen Richardson,2021-11-09,,Bramblestar,,,,,,Image;StillImage,image/png,eng,In Copyright - Educational Use Permitted.,,image,,,,A Vision of Shadows
+cov-8-1.png,cov-8-1.png,,River,Owen Richardson,2022-04-05,,Mistystar,,,,,,Image;StillImage,image/png,eng,In Copyright - Educational Use Permitted.,,image,,,,A Starless Clan
+cov-8-2.png,cov-8-2.png,,Sky,Owen Richardson,2022-11-01,,Nightheart; Sunbeam; Fidgetflake,,,,,,Image;StillImage,image/png,eng,In Copyright - Educational Use Permitted.,,image,,,,A Starless Clan
+cov-sup-1.png,cov-sup-1.png,,Firestar's Quest,Wayne McLoughlin,2007-08-21,,Firestar,,,,,,Image;StillImage,image/png,eng,In Copyright - Educational Use Permitted.,,image,,,,Super Editions
+cov-sup-13.png,cov-sup-13.png,,Graystripe's Vow,Owen Richardson,2020-09-01,,Graystripe,,,,,,Image;StillImage,image/png,eng,In Copyright - Educational Use Permitted.,,image,,,,Super Editions
+cov-sup-15.png,cov-sup-15.png,,Onestar's Confession,Owen Richardson,2022-09-06,,Onestar,,,,,,Image;StillImage,image/png,eng,In Copyright - Educational Use Permitted.,,image,,,,Super Editions
+cov-man-2.png,cov-man-2.png,,A Shadow in RiverClan,James L. Barry,2020-06-02,,Feathertail,,,,,,Image;StillImage,image/png,eng,In Copyright - Educational Use Permitted.,,image,,,,Graphic Novels
+cov-man-3.png,cov-man-3.png,,Winds of Change,James L. Barry,2021-06-01,,Mudclaw,,,,,,Image;StillImage,image/png,eng,In Copyright - Educational Use Permitted.,,image,,,,Graphic Novels
+cov-man-4.png,cov-man-4.png,,Exile from ShadowClan,James L. Barry,2022-06-07,,Nightstar,,,,,,Image;StillImage,image/png,eng,In Copyright - Educational Use Permitted.,,image,,,,Graphic Novels
+cov-5-1.png,cov-5-1.png,,The Sun Trail,Wayne McLoughlin,2013-03-05,,Gray Wing,,,,,,Image;StillImage,image/png,eng,In Copyright - Educational Use Permitted.,,image,,,,Dawn of the Clans
