@@ -37,7 +37,7 @@ subjects-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g.
 ##########
 # MAP PAGE
 #
- see _data/map-config.csv for field display options
+# see _data/map-config.csv for field display options
  latitude: 46.727485 #to determine center of map
  longitude: -117.014185 #to determine center of map
  zoom-level: 7 # zoom level for map 
