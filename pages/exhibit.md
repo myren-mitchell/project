@@ -15,4 +15,4 @@ I wanted to take a closer look into the art style changes for the individual ser
 ---
 
 The first series we will take a look at is series two **The New Prophecy**
-{% include feature/image.html objectid="cov-2-2.PNG;cov-2-3.PNG" %}
+{% include feature/image.html objectid="cov-2-2.PNG" %}
