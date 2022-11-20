@@ -18,6 +18,6 @@ The first series we will take a look at is series two **The New Prophecy**
 
 {% include feature/image.html objectid="cov-2-2.png" %}
 
-{% include feature/image.html objectid="cov-2-6" %}
+{% include feature/image.html objectid="cov-2-2.png;cov-2-3.png;cov-2-4.png" %}
 
 {% include feature/image.html objectid="/objects/cov-2-2.png" %}
