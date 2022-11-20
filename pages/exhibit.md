@@ -6,8 +6,7 @@ permalink: /exhibit.html
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-Warriors Series Cover Comparison
- ---
+# Warriors Series Cover Comparison
 
 I wanted to take a closer look into the art style changes for the individual series within the _Warriors_ franchise. As you will see, these changes range from minute color or shape changes to drastically altering the design of the covers. Not all series will be discussed here, we will be focusing on series whose covers are featured within this collection.
 
@@ -37,7 +36,7 @@ This series is fairly similar to the Power of Three in cover design. This does m
 
 ---
 
-**The Broken Code**
+Then we skip ahead to series seven **The Broken Code**
 
 {% include feature/image.html objectid="cov-7-5.png;cov-7-6.png" %}
 
