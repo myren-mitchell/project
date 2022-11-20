@@ -25,10 +25,26 @@ Next is series three **The Power of Three**
 
 {% include feature/image.html objectid="cov-3-1.png;cov-3-3.png" %}
 
-The Power of Three began a trend in _Warriors_ books of changing the center shape to a circle instead of the previously used rectangle. Some of the center character portraits also feature multiple characters such as in book 1 _The Sight_. Another change is that the spines of the book covers are now uniform with the rest of the artwork on the covers, creating one large background painting featured around the entire dust jacket of each book.
+The Power of Three began a trend in _Warriors_ books of changing the center shape to a circle instead of the previously used rectangle. Some of the center character portraits also feature multiple characters such as in book one _The Sight_. Another change is that the spines of the book covers are now uniform with the rest of the artwork on the covers, creating one large background painting featured around the entire dust jacket of each book.
 
 ---
 
 Now we will look at series four **Omen of the Stars**
 
 {% include feature/image.html objectid="cov-4-2.png;cov-4-4.png" %}
+
+---
+
+**The Broken Code**
+
+{% include feature/image.html objectid="cov-7-5.png;cov-7-6.png" %}
+
+This series shows the drastic art style change from Wayne McLoughlin to Owen Richardson.
+
+---
+
+Finally, lets take a look at the **Graphic Novels**
+
+{% include feature/image.html objectid="cov-man-3.png;cov-man-4.png" %}
+
+The graphic novels are illustrated by James L. Barry. They continue to use the character designs featured on the previous book covers but with more of a cartoon style to aid in the visual storytelling.
